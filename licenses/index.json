@@ -1,0 +1,96 @@
+[
+  {
+    "package": "react",
+    "version": "19.2.8",
+    "license": "MIT",
+    "notice": "react.txt"
+  },
+  {
+    "package": "react-dom",
+    "version": "19.2.8",
+    "license": "MIT",
+    "notice": "react-dom.txt"
+  },
+  {
+    "package": "three",
+    "version": "0.185.1",
+    "license": "MIT",
+    "notice": "three.txt"
+  },
+  {
+    "package": "@dimforge/rapier3d-compat",
+    "version": "0.20.0",
+    "license": "Apache-2.0",
+    "notice": "dimforge-rapier3d-compat.txt"
+  },
+  {
+    "package": "its-fine",
+    "version": "2.0.0",
+    "license": "MIT",
+    "notice": "its-fine.txt"
+  },
+  {
+    "package": "zustand",
+    "version": "5.0.15",
+    "license": "MIT",
+    "notice": "zustand.txt"
+  },
+  {
+    "package": "scheduler",
+    "version": "0.27.0",
+    "license": "MIT",
+    "notice": "scheduler.txt"
+  },
+  {
+    "package": "react-use-measure",
+    "version": "2.1.7",
+    "license": "MIT",
+    "notice": "react-use-measure.txt"
+  },
+  {
+    "package": "suspend-react",
+    "version": "0.1.3",
+    "license": "MIT",
+    "notice": "suspend-react.txt"
+  },
+  {
+    "package": "use-sync-external-store",
+    "version": "1.6.0",
+    "license": "MIT",
+    "notice": "use-sync-external-store.txt"
+  },
+  {
+    "package": "@babel/runtime",
+    "version": "7.29.7",
+    "license": "MIT",
+    "notice": "babel-runtime.txt"
+  },
+  {
+    "package": "base64-js",
+    "version": "1.5.1",
+    "license": "MIT",
+    "notice": "base64-js.txt"
+  },
+  {
+    "package": "buffer",
+    "version": "6.0.3",
+    "license": "MIT",
+    "notice": "buffer.txt"
+  },
+  {
+    "package": "ieee754",
+    "version": "1.2.1",
+    "license": "BSD-3-Clause",
+    "notice": "ieee754.txt"
+  },
+  {
+    "package": "@react-three/fiber",
+    "version": "9.7.0",
+    "license": "MIT",
+    "notice": "react-three-fiber.txt",
+    "source": "https://github.com/pmndrs/react-three-fiber/blob/0a107412ac64667b1908422e859447952f57feef/LICENSE"
+  },
+  {
+    "note": "React reconciler embedded in Fiber is covered by react.txt (Meta MIT). Font notices: OFL-Barlow.txt, OFL-BigShoulders.txt, OFL-JetBrainsMono.txt."
+  }
+]

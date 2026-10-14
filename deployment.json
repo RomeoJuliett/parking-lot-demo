@@ -1,0 +1,248 @@
+{
+  "releaseMainRevision": "4c85cd84584f34d5104b436d51a4034a6e028c53",
+  "compiledCandidateRevision": "369c4916230831fc763af99398247be6906d64f9",
+  "sourceTree": "db9fd041b978d2693503144c10c7fddcc0be6e26",
+  "distribution": "public-demo",
+  "basePath": "/parking-lot-demo/",
+  "testPoseEnabled": false,
+  "sourceMaps": false,
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "README.md",
+      "bytes": 753,
+      "sha256": "8cfdf00271ca6c8a71c90a230f8ee560199e039d16f11bd9f10fc2bc4accd1d7"
+    },
+    {
+      "path": "assets/barlow-condensed-latin-500-normal-BgYH2mbd.woff2",
+      "bytes": 21424,
+      "sha256": "460f141ec8f6c9a1516bfd2bd9fe71656246d7a9d04a0955faf53158d8970c4c"
+    },
+    {
+      "path": "assets/barlow-condensed-latin-600-normal-DepVgxBB.woff2",
+      "bytes": 22308,
+      "sha256": "215a93c696f442034a46fbb382958f753fda60e30490683aeea6b235fcbb2b66"
+    },
+    {
+      "path": "assets/barlow-condensed-latin-700-normal-v1xN8_Wq.woff2",
+      "bytes": 22444,
+      "sha256": "3787a5a419171630e6890cfa47c4da067474d005cd0ff8dc11ec090fdc3ee2b8"
+    },
+    {
+      "path": "assets/barlow-condensed-latin-800-normal-BKzMuPgK.woff2",
+      "bytes": 22464,
+      "sha256": "2515494e8cc2ca07c86ea78766cfa104b796aa6ed5d66821c01d51dbb0b52bce"
+    },
+    {
+      "path": "assets/barlow-semi-condensed-latin-400-normal-DlzeKIMS.woff2",
+      "bytes": 22300,
+      "sha256": "d03a7a5f6b74534c80699289d4f6495fdb09a7596774a4ede79129d2f8bb67b1"
+    },
+    {
+      "path": "assets/barlow-semi-condensed-latin-500-normal-G0uxJNrM.woff2",
+      "bytes": 22428,
+      "sha256": "0d7513795eaf8fdab7f340144841bd2d9fac7d9303c03aa6b525a2c908e9b371"
+    },
+    {
+      "path": "assets/barlow-semi-condensed-latin-600-normal-BkLiAYu4.woff2",
+      "bytes": 22984,
+      "sha256": "f158417e9207b5362f9b71a2fe779ce5bb836ad972f38445c3163af39d2c998d"
+    },
+    {
+      "path": "assets/barlow-semi-condensed-latin-700-normal-BpqDG8I9.woff2",
+      "bytes": 23244,
+      "sha256": "fb958c8c20a05552ac8a85d925d96028d52565792650e941a5fe96b6997aa5cb"
+    },
+    {
+      "path": "assets/big-shoulders-display-latin-700-normal-KM2fueoL.woff2",
+      "bytes": 14424,
+      "sha256": "d2d55115d0d7047ce956d4eb8f2fbfe7915552cf4fabb294a5979705ec9687ac"
+    },
+    {
+      "path": "assets/big-shoulders-display-latin-800-normal-DDUD9Xuh.woff2",
+      "bytes": 14556,
+      "sha256": "088f423f09136bc96b5a7cc7232d671a1ad06a5ff1cf90cd1e24a8d9809d471c"
+    },
+    {
+      "path": "assets/big-shoulders-display-latin-900-normal-CW8trzgu.woff2",
+      "bytes": 14016,
+      "sha256": "65f2c368034258382e77672f083d9f42e805d23d557432517a1b5a4f75c21f1a"
+    },
+    {
+      "path": "assets/county-world-DtoIe4wp.js",
+      "bytes": 2084,
+      "sha256": "e06ed45b5537430347b16e344716ed2cc9937dc604e9b9ee14e09ed48fe13655"
+    },
+    {
+      "path": "assets/favicon-BNXImUPJ.svg",
+      "bytes": 524,
+      "sha256": "44fce5b618c87b63ffcff3a9fdc9644c2a299103ff792302591febf0d4768cb4"
+    },
+    {
+      "path": "assets/index-CViMM1nB.js",
+      "bytes": 83448,
+      "sha256": "f03a3db2d944127dacad882d9b5a5a4f9d754c91b6ffbe7e71f2f89aae713b94"
+    },
+    {
+      "path": "assets/index-CzqjfUuy.css",
+      "bytes": 23537,
+      "sha256": "6208b0b7beccdfb2e64156f58df23b928394031c3da45d926b10f7e3001f1d53"
+    },
+    {
+      "path": "assets/jetbrains-mono-latin-400-normal-V6pRDFza.woff2",
+      "bytes": 21168,
+      "sha256": "14425ba9c695763c1547f48a206b7aa60350a33ae23de09f0407877f3fcd89eb"
+    },
+    {
+      "path": "assets/jetbrains-mono-latin-700-normal-BYuf6tUa.woff2",
+      "bytes": 21908,
+      "sha256": "d0d4e818808f2a0ba39b2b09d1989366f63494e295f003c7ef436697378507e8"
+    },
+    {
+      "path": "assets/rapier-Cdikrc8R.js",
+      "bytes": 2852193,
+      "sha256": "7a3c37d057198a53fe4e432204d10b248f96218111dd58499892e4c65e510b02"
+    },
+    {
+      "path": "assets/react-oycn3nfO.js",
+      "bytes": 189596,
+      "sha256": "73aca0edd2bff6166d5c3a9eae3939281f92845f731f90b75ccf2ab1caafecb9"
+    },
+    {
+      "path": "assets/rolldown-runtime-8BhlS34s.js",
+      "bytes": 807,
+      "sha256": "1cb5c6ead7e29370203f12e2d5cdf50ec1f02dd70ee2d050d909afbf2406f6b1"
+    },
+    {
+      "path": "assets/three-C6CfR0MD.js",
+      "bytes": 882924,
+      "sha256": "8e21fd91388948cd72b5d86d770bca5c41339806570ce59513acaf11ea1f948a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 938,
+      "sha256": "5a50937ebbd1317e577fd2061deb228a3db6b0f43ca7e5700da7a753ae048428"
+    },
+    {
+      "path": "licenses/OFL-Barlow.txt",
+      "bytes": 6235,
+      "sha256": "56027070a748db90a33c074bf7b9b7f0df66dd38a8a0d3e3a951f79035f9c4a0"
+    },
+    {
+      "path": "licenses/OFL-BigShoulders.txt",
+      "bytes": 4314,
+      "sha256": "18aabf190848725e2576eefb5c29ba06aac1029d02132252a7f312eac2e50cf3"
+    },
+    {
+      "path": "licenses/OFL-JetBrainsMono.txt",
+      "bytes": 4524,
+      "sha256": "403581b69dac5cff4079205e01c6b467e56af449ecbd7247693ddb1baafa005b"
+    },
+    {
+      "path": "licenses/babel-runtime.txt",
+      "bytes": 1106,
+      "sha256": "117da2af0d4ce0fe1c8e19b5cff9dcd806adf973d328d27b11d4448c4ff24f76"
+    },
+    {
+      "path": "licenses/base64-js.txt",
+      "bytes": 1081,
+      "sha256": "5b37224c080cdcc97c871ada971c224e9926370fe74f11b539aa1cf9f3b1aca1"
+    },
+    {
+      "path": "licenses/buffer.txt",
+      "bytes": 1106,
+      "sha256": "06bafa45fdad2579ba0e43b0c9b2c6290287c99c4203c300254a462b38a307f6"
+    },
+    {
+      "path": "licenses/dimforge-rapier3d-compat.txt",
+      "bytes": 11343,
+      "sha256": "4c05555705e3efde601fb1252ae48f1d63992af8a8fb8947745b7fa834e8f519"
+    },
+    {
+      "path": "licenses/ieee754.txt",
+      "bytes": 1465,
+      "sha256": "18d45466ba3253deae04667e267a91ea8de8548f18c1125264d1c9db28194cc1"
+    },
+    {
+      "path": "licenses/index.json",
+      "bytes": 2083,
+      "sha256": "5308ca855f428a1bfb2898953a42e0b5e29b27598e0f5f1a4d9bd0babbafd9c0"
+    },
+    {
+      "path": "licenses/its-fine.txt",
+      "bytes": 1093,
+      "sha256": "506bca9e41227d2ae1fbea8342a1fcff853af8198e9e1f37693a635e86efc539"
+    },
+    {
+      "path": "licenses/react-dom.txt",
+      "bytes": 1088,
+      "sha256": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93"
+    },
+    {
+      "path": "licenses/react-three-fiber.txt",
+      "bytes": 1072,
+      "sha256": "9c35b5de7b7493a707fffe4eb23bd2f7f449153c1911f7c6eefb4e591fd5349a"
+    },
+    {
+      "path": "licenses/react-use-measure.txt",
+      "bytes": 1093,
+      "sha256": "1f9038eff8dbd6505a26f9d6830cc6da2b87ab1a9305d1100884986e9c11a31a"
+    },
+    {
+      "path": "licenses/react.txt",
+      "bytes": 1088,
+      "sha256": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93"
+    },
+    {
+      "path": "licenses/scheduler.txt",
+      "bytes": 1088,
+      "sha256": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93"
+    },
+    {
+      "path": "licenses/suspend-react.txt",
+      "bytes": 1070,
+      "sha256": "997e79b828d8b85d6f18730c8dbf58074811360a199506bd84e1263e17c227a2"
+    },
+    {
+      "path": "licenses/three.txt",
+      "bytes": 1081,
+      "sha256": "8b378ebe60e2fe500158cb0ac71cb5e8b7d92953c2abcc63a0eb90499653b5bc"
+    },
+    {
+      "path": "licenses/use-sync-external-store.txt",
+      "bytes": 1088,
+      "sha256": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93"
+    },
+    {
+      "path": "licenses/zustand.txt",
+      "bytes": 1070,
+      "sha256": "c1e6e266563517467b1bf874817d23e426f3149252bd7d42758cd697514b8417"
+    }
+  ],
+  "releaseMainTree": "118457792cfafb1f25d849c3ad786387983a302a",
+  "sourceTreeMeaning": "compiledCandidateRevision tree",
+  "releaseDiffFromCompiledTree": [
+    "docs/plans/2026-10-14-ci-online-menu-recovery.md",
+    "docs/plans/2026-10-14-marlow-sprint-readiness-phases.md",
+    "docs/plans/2026-10-14-shell-functional-render-profile.md",
+    "docs/plans/2026-10-14-sprint-body-readiness-polling.md",
+    "docs/plans/2026-10-14-sprint-functional-render-profile.md",
+    "tests/build/shellFunctionalProfile.test.ts",
+    "tests/e2e/client-recovery.spec.ts",
+    "tests/e2e/cross-browser-smoke.spec.ts",
+    "tests/e2e/driving-cluster.spec.ts",
+    "tests/e2e/main-menu.spec.ts",
+    "tests/e2e/mainMenuNavigation.ts",
+    "tests/e2e/marlow-sprint.spec.ts",
+    "tests/e2e/multiplayer.spec.ts",
+    "tests/e2e/private-party.spec.ts",
+    "tests/e2e/profile-backup.spec.ts",
+    "tests/e2e/public-demo.spec.ts",
+    "tests/e2e/records-round-trip.spec.ts",
+    "tests/e2e/shellFunctionalProfile.ts"
+  ]
+}
