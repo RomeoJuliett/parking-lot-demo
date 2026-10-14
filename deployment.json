@@ -1,11 +1,28 @@
 {
-  "releaseMainRevision": "4c85cd84584f34d5104b436d51a4034a6e028c53",
-  "compiledCandidateRevision": "369c4916230831fc763af99398247be6906d64f9",
-  "sourceTree": "db9fd041b978d2693503144c10c7fddcc0be6e26",
+  "releaseMainRevision": "ce99047b452ccc9ba65b95aacc707a5747bb02dd",
+  "releaseMainTree": "7d91ad626328e872dc5d0dcb8792188c4f6c0664",
+  "compiledCandidateRevision": "182c0ba49774c937ee49e3b6b5ffa4aecda09413",
+  "sourceTree": "96cbf88be77d022e4045b4284a63a1f08807ee7b",
+  "sourceTreeMeaning": "compiledCandidateRevision tree",
+  "releaseDiffFromCompiledTree": {
+    "changedTrackedFiles": 1,
+    "changedPublicInputs": 0,
+    "matchedCompiledSourceInputs": 38,
+    "unchangedTrackedBuildConfigObjects": 7,
+    "reason": "Only a private UI stylesheet changed outside the compiled public graph."
+  },
   "distribution": "public-demo",
   "basePath": "/parking-lot-demo/",
   "testPoseEnabled": false,
   "sourceMaps": false,
+  "releaseGate": {
+    "state": "REQUIRED_EXACT_MAIN_CI_SUCCESS",
+    "fullCIRun": 38608614580,
+    "fullCIAttempt": 1,
+    "fullCIHead": "ce99047b452ccc9ba65b95aacc707a5747bb02dd",
+    "fullCIConclusion": "success",
+    "publicationAllowed": true
+  },
   "files": [
     {
       "path": ".nojekyll",
@@ -83,9 +100,9 @@
       "sha256": "44fce5b618c87b63ffcff3a9fdc9644c2a299103ff792302591febf0d4768cb4"
     },
     {
-      "path": "assets/index-CViMM1nB.js",
-      "bytes": 83448,
-      "sha256": "f03a3db2d944127dacad882d9b5a5a4f9d754c91b6ffbe7e71f2f89aae713b94"
+      "path": "assets/index-CXvg0rkr.js",
+      "bytes": 83445,
+      "sha256": "216887f82f2f7371723fe6fa202efca5dc68106bfdfebb0d6a4c5f6f730c3247"
     },
     {
       "path": "assets/index-CzqjfUuy.css",
@@ -125,7 +142,7 @@
     {
       "path": "index.html",
       "bytes": 938,
-      "sha256": "5a50937ebbd1317e577fd2061deb228a3db6b0f43ca7e5700da7a753ae048428"
+      "sha256": "a1ed7cb203eb583d350918b166e3bc28c902e2a6bc202bb0808a1ae95b4df695"
     },
     {
       "path": "licenses/OFL-Barlow.txt",
@@ -222,27 +239,5 @@
       "bytes": 1070,
       "sha256": "c1e6e266563517467b1bf874817d23e426f3149252bd7d42758cd697514b8417"
     }
-  ],
-  "releaseMainTree": "118457792cfafb1f25d849c3ad786387983a302a",
-  "sourceTreeMeaning": "compiledCandidateRevision tree",
-  "releaseDiffFromCompiledTree": [
-    "docs/plans/2026-10-14-ci-online-menu-recovery.md",
-    "docs/plans/2026-10-14-marlow-sprint-readiness-phases.md",
-    "docs/plans/2026-10-14-shell-functional-render-profile.md",
-    "docs/plans/2026-10-14-sprint-body-readiness-polling.md",
-    "docs/plans/2026-10-14-sprint-functional-render-profile.md",
-    "tests/build/shellFunctionalProfile.test.ts",
-    "tests/e2e/client-recovery.spec.ts",
-    "tests/e2e/cross-browser-smoke.spec.ts",
-    "tests/e2e/driving-cluster.spec.ts",
-    "tests/e2e/main-menu.spec.ts",
-    "tests/e2e/mainMenuNavigation.ts",
-    "tests/e2e/marlow-sprint.spec.ts",
-    "tests/e2e/multiplayer.spec.ts",
-    "tests/e2e/private-party.spec.ts",
-    "tests/e2e/profile-backup.spec.ts",
-    "tests/e2e/public-demo.spec.ts",
-    "tests/e2e/records-round-trip.spec.ts",
-    "tests/e2e/shellFunctionalProfile.ts"
   ]
 }
